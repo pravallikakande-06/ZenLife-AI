@@ -1,0 +1,49 @@
+name,category,diet,calories,protein,carbs,fat
+Rolled oats,Grain,vegan,389,16.9,66.3,6.9
+Whole wheat bread,Grain,vegan,247,13.0,41.0,3.4
+Brown rice (cooked),Grain,vegan,112,2.3,23.5,0.8
+White rice (cooked),Grain,vegan,130,2.7,28.2,0.3
+Quinoa (cooked),Grain,vegan,120,4.4,21.3,1.9
+Whole wheat pasta (cooked),Grain,vegan,124,5.3,26.5,0.5
+Chapati (roti),Grain,vegan,297,9.0,46.0,7.0
+Idli,Grain,vegan,135,4.0,28.0,0.5
+Granola,Grain,vegetarian,471,10.0,64.0,20.0
+Banana,Fruit,vegan,89,1.1,22.8,0.3
+Apple,Fruit,vegan,52,0.3,13.8,0.2
+Orange,Fruit,vegan,47,0.9,11.8,0.1
+Blueberries,Fruit,vegan,57,0.7,14.5,0.3
+Avocado,Fruit,vegan,160,2.0,8.5,14.7
+Coconut water,Beverage,vegan,19,0.7,3.7,0.2
+Lentils/dal (cooked),Legume,vegan,116,9.0,20.0,0.4
+Chickpeas (cooked),Legume,vegan,164,8.9,27.4,2.6
+Black beans (cooked),Legume,vegan,132,8.9,23.7,0.5
+Hummus,Legume,vegan,166,7.9,14.3,9.6
+Tofu (firm),Protein,vegan,144,17.0,3.0,8.7
+Tempeh,Protein,vegan,192,20.0,7.6,10.8
+Almonds,Nuts & seeds,vegan,579,21.2,21.6,49.9
+Walnuts,Nuts & seeds,vegan,654,15.2,13.7,65.2
+Peanut butter,Nuts & seeds,vegan,588,25.0,20.0,50.0
+Chia seeds,Nuts & seeds,vegan,486,16.5,42.1,30.7
+Olive oil,Fat,vegan,884,0.0,0.0,100.0
+Dark chocolate,Snack,vegan,598,7.8,45.9,42.6
+Soy milk (unsweetened),Dairy alternative,vegan,33,2.9,1.7,1.8
+Milk (whole),Dairy,vegetarian,61,3.2,4.8,3.3
+Greek yogurt,Dairy,vegetarian,59,10.0,3.6,0.4
+Paneer,Dairy,vegetarian,265,18.0,1.2,20.8
+Cheddar cheese,Dairy,vegetarian,403,25.0,1.3,33.0
+Egg (boiled),Protein,vegetarian,155,13.0,1.1,11.0
+Honey,Sweetener,vegetarian,304,0.3,82.4,0.0
+Broccoli,Vegetable,vegan,34,2.8,6.6,0.4
+Spinach,Vegetable,vegan,23,2.9,3.6,0.4
+Carrot,Vegetable,vegan,41,0.9,9.6,0.2
+Tomato,Vegetable,vegan,18,0.9,3.9,0.2
+Cucumber,Vegetable,vegan,15,0.7,3.6,0.1
+Mixed salad greens,Vegetable,vegan,17,1.5,3.3,0.2
+Sweet potato (baked),Vegetable,vegan,90,2.0,20.7,0.2
+Potato (boiled),Vegetable,vegan,87,1.9,20.0,0.1
+Chicken breast (cooked),Protein,non-vegetarian,165,31.0,0.0,3.6
+Salmon (cooked),Protein,non-vegetarian,206,22.0,0.0,12.0
+Cod (cooked),Protein,non-vegetarian,105,23.0,0.0,0.9
+Shrimp (cooked),Protein,non-vegetarian,99,24.0,0.2,0.3
+Tuna (canned in water),Protein,non-vegetarian,116,26.0,0.0,0.8
+Lean beef (cooked),Protein,non-vegetarian,217,26.0,0.0,12.0
